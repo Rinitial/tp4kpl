@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\tpmodul4_103022330026\tpmodul4_103022330026\bin\Debug\net8.0\tpmodul4_103022330026.exe
+C:\Users\DELL\source\repos\tpmodul4_103022330026\tpmodul4_103022330026\bin\Debug\net8.0\tpmodul4_103022330026.deps.json
+C:\Users\DELL\source\repos\tpmodul4_103022330026\tpmodul4_103022330026\bin\Debug\net8.0\tpmodul4_103022330026.runtimeconfig.json
+C:\Users\DELL\source\repos\tpmodul4_103022330026\tpmodul4_103022330026\bin\Debug\net8.0\tpmodul4_103022330026.dll
+C:\Users\DELL\source\repos\tpmodul4_103022330026\tpmodul4_103022330026\bin\Debug\net8.0\tpmodul4_103022330026.pdb
+C:\Users\DELL\source\repos\tpmodul4_103022330026\tpmodul4_103022330026\obj\Debug\net8.0\tpmodul4_103022330026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\tpmodul4_103022330026\tpmodul4_103022330026\obj\Debug\net8.0\tpmodul4_103022330026.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\tpmodul4_103022330026\tpmodul4_103022330026\obj\Debug\net8.0\tpmodul4_103022330026.AssemblyInfo.cs
+C:\Users\DELL\source\repos\tpmodul4_103022330026\tpmodul4_103022330026\obj\Debug\net8.0\tpmodul4_103022330026.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\tpmodul4_103022330026\tpmodul4_103022330026\obj\Debug\net8.0\tpmodul4_103022330026.dll
+C:\Users\DELL\source\repos\tpmodul4_103022330026\tpmodul4_103022330026\obj\Debug\net8.0\refint\tpmodul4_103022330026.dll
+C:\Users\DELL\source\repos\tpmodul4_103022330026\tpmodul4_103022330026\obj\Debug\net8.0\tpmodul4_103022330026.pdb
+C:\Users\DELL\source\repos\tpmodul4_103022330026\tpmodul4_103022330026\obj\Debug\net8.0\tpmodul4_103022330026.genruntimeconfig.cache
+C:\Users\DELL\source\repos\tpmodul4_103022330026\tpmodul4_103022330026\obj\Debug\net8.0\ref\tpmodul4_103022330026.dll
